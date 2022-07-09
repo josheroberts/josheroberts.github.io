@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Josh Roberts
+description: Truck Driver
 
-url: https://long-haul.netlify.app
+url: https://josheroberts.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
